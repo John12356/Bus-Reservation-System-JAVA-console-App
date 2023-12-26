@@ -46,6 +46,10 @@ We greatly appreciate all contributions to this project. Contributors will be ac
 This project is licensed under the [MIT License](LICENSE). See the [LICENSE](LICENSE) file for details.
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
+## Feedback
+
+For any queries and improvements please reach out to johnmoorthi85131@gmail.com
+
 ## Thank You
 
 We appreciate your interest in our project and hope that you find it useful. Your contributions and adherence to the project's license are valuable to us.
